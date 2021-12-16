@@ -1,0 +1,12 @@
+{
+    "name": "framework/framework",
+    "require": {
+        "vlucas/valitron": "^1.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "framework\\": "vendor/framework",
+            "app\\": "app"
+        }
+    }
+}

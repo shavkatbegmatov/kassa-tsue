@@ -1,0 +1,49 @@
+a:2:{s:4:"data";s:1137:"<li>
+    <a href="?id=1">Samsung</a>
+            <ul>
+            <li>
+    <a href="?id=6">Galaxy Phone</a>
+            <ul>
+            <li>
+    <a href="?id=17">Galaxy A70</a>
+    </li><li>
+    <a href="?id=18">Galaxy S20</a>
+    </li>        </ul>
+    </li><li>
+    <a href="?id=7">Smart TV</a>
+    </li><li>
+    <a href="?id=8">Smart Watch</a>
+    </li>        </ul>
+    </li><li>
+    <a href="?id=2">Apple</a>
+            <ul>
+            <li>
+    <a href="?id=9">iPhone</a>
+    </li><li>
+    <a href="?id=10">iPad</a>
+    </li><li>
+    <a href="?id=11">iPod</a>
+    </li>        </ul>
+    </li><li>
+    <a href="?id=3">LG</a>
+            <ul>
+            <li>
+    <a href="?id=12">Phone</a>
+    </li><li>
+    <a href="?id=13">TV</a>
+    </li>        </ul>
+    </li><li>
+    <a href="?id=4">Lenovo</a>
+            <ul>
+            <li>
+    <a href="?id=14">Laptop</a>
+    </li><li>
+    <a href="?id=15">Computer</a>
+    </li>        </ul>
+    </li><li>
+    <a href="?id=5">Nokia</a>
+            <ul>
+            <li>
+    <a href="?id=16">Nokia G50</a>
+    </li>        </ul>
+    </li>";s:8:"end_time";i:1639040741;}
